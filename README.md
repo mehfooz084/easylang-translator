@@ -27,3 +27,7 @@ A simple language translator web app built using **Streamlit** and **deep-transl
 git clone https://github.com/mehfooz084/easylang-translator.git
 cd easylang-translator
 
+pip install -r requirements.txt
+streamlit run easylang_app.py
+
+
