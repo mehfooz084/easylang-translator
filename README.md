@@ -10,7 +10,7 @@ A simple language translator web app built using **Streamlit** and **deep-transl
 
 ## 📦 Requirements
 
-- Python 3.13 ✅
+- Python 3.10 ✅
 - streamlit==1.26.0
 deep-translator==1.11.4
 
@@ -19,8 +19,8 @@ deep-translator==1.11.4
 
 ## 🖥️ Run Locally (Using VS Code)
 
-### ✅ Step 1: Install Python 3.13
-[Download Python 3.13](https://www.python.org/downloads/release/python-3130/)
+### ✅ Step 1: Install Python 3.10
+https://www.python.org/downloads/release/python-3100/
 
 ### ✅ Step 2: Clone the Repository
 
