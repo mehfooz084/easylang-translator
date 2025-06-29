@@ -10,7 +10,7 @@ A simple language translator web app built using **Streamlit** and **deep-transl
 
 ## 📦 Requirements
 
-- Python 3.13 ✅
+- Python 3.10 ✅
 - streamlit==1.26.0
 deep-translator==1.11.4
 
